@@ -1,0 +1,19 @@
+package com.bridgelabz.springprojects;
+
+import org.springframework.stereotype.Service;
+
+@Service()
+public class HelloWorldService {
+	String name;
+	private void setName(String name) {
+		this.name=name;
+	}
+	private String getName() {
+		return name;
+	}
+	public void geetCustomer() {
+		System.out.println(name);
+	}
+}
+
+

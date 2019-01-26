@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+/home/admin1/Dhanush/Bridgelabz/Spring/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/6312660.index
+/Demo/src/main/resources
+/home/admin1/Dhanush/Bridgelabz/Spring/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1090149893.index
+/MyAwareService/src/main/resources

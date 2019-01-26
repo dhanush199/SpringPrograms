@@ -1,0 +1,13 @@
+package com.bridgelabz.springprojects;
+
+import org.springframework.stereotype.Service;
+
+@Service()
+public class HelloWorldService {
+
+	public void geetCustomer() {
+		System.out.println("Helloooooo");
+	}
+}
+
+

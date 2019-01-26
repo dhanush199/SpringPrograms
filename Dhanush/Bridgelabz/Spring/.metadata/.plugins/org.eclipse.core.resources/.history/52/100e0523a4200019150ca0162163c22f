@@ -1,0 +1,10 @@
+package com.bridgelabz.springprojects;
+
+public class HelloWorldService {
+
+	public void geetCustomer() {
+		System.out.println("Helloooooo");
+	}
+}
+
+

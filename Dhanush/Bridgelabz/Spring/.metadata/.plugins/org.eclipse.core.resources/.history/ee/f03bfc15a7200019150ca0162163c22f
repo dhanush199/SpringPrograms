@@ -1,0 +1,17 @@
+package com.bridgelabz.springprojects;
+
+import org.springframework.stereotype.Service;
+
+@Service("helloWorldService")
+public class HelloWorldService {
+	String name;
+	void setName(String name) {
+		this.name=name;
+	}
+
+	public String sayHello() {
+		return "Hello" +name;
+	}
+}
+
+

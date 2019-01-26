@@ -1,0 +1,5 @@
+package com.bridgelabz.springprojects;
+
+public class HelloWorldService {
+
+}
